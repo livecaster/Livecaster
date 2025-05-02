@@ -1,16 +1,24 @@
-## Hi there 👋
+# LiveCaster
 
-<!--
-**livecaster/Livecaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+LiveCaster is a Web3 enabled platform that lets creators host live streams or video calls and receive crypto donations directly from their audience.
 
-Here are some ideas to get you started:
+Base Batches #001
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Features
+- Live streaming / Video Calls
+- USDC crypto donations powered by Base
+- Audience airdrop features (coming soon)
+
+## How It Works
+1. Creators sign in with their wallet and start their stream.
+2. Viewers can donate directly to creators using USDC on Base.
+
+## Live Demo
+https://livecaster.xyz
+
+## Smart Contracts
+- USDC on Base: `0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913`
+
+
+## License
+MIT
