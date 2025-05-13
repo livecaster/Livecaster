@@ -2,7 +2,7 @@
 
 # LiveCaster
 
-LiveCaster is a Web3 enabled platform that lets creators host live streams or video calls and receive crypto donations directly from their audience.
+LiveCaster lets creators host live streams or video calls and receive crypto donations directly from their audience.
 
 Base Batches #001
 
